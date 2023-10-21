@@ -1,0 +1,29 @@
+Git is a version control system that allows users to monitor changes in their code. GitHub is a web-based hosting service for git repositories.
+Both are great tools and contain a vast array of features like editing and server to server viewing.
+Git hub provides us a platform to store code on,it is a cloud based system so we dont have to worry about losing our code as it is always stored in the main server cloud.
+
+Many misconception occur in peoples minds as what is github?Many of my friends thought that it was a proggraming language site. However, GitHub doesn’t teach any programming, and its usage comes when one has a program or code to push and save on a cloud repository.
+
+Some of the main key differences is listed below 
+Git:-
+
+Version Control System: Git is a distributed version control system (DVCS) used for tracking changes in source code during software development. It allows multiple developers to work on the same project concurrently.
+
+Local: Git operates locally on your computer. It doesn't require an internet connection to track changes or commit code.
+
+Command Line: Git primarily operates through a command-line interface, although there are graphical user interfaces available.
+
+No Hosting: Git itself is not a hosting service; it's just a tool for managing version control. You can use Git on your local machine or set up your own Git server.
+
+Free and Open Source: Git is free and open-source software. It was created by Linus Torvalds, the same person who created Linux.
+
+GitHub:-
+
+Git Repository Hosting: GitHub is a web-based platform that provides hosting for Git repositories. It allows users to store their Git repositories in the cloud, making it easier to collaborate and share code with others.
+
+Collaboration: GitHub offers features for collaboration, such as pull requests, issues, and code reviews, which facilitate teamwork on software projects.
+
+Web-Based Interface: GitHub provides a user-friendly web interface for managing repositories, making it accessible to developers who may not be familiar with the command line.
+
+Social and Networking Features: GitHub includes social features such as following users, starring repositories, and discussions on code. It's a platform for building a developer community.
+
